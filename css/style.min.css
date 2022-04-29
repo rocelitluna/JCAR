@@ -9,7 +9,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #000;
-  background-color: #f4ede5; }
+  background-color: #c55f5f; }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   font-family: 'Josefin Sans', sans-serif;
@@ -76,10 +76,10 @@ a:hover {
   padding-left: 70px;
   padding-right: 70px; }
   .navbar-brand-center img {
-    height: 50px; }
+    height: 100px; }
 
 .footer-logo {
-  height: 50px; }
+  height: 100px; }
 
 .nav-link {
   color: #000; }
