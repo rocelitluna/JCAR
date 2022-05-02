@@ -333,18 +333,18 @@ a:hover {
   height: 650px;
   margin-bottom: 200px; }
 
-#selectPerson + .select2-container--default .select2-selection--single .select2-selection__rendered {
+#selectPersonas + .select2-container--default .select2-selection--single .select2-selection__rendered {
   line-height: 36px;
   padding-left: 12px; }
 
-#selectPerson + .select2-container .select2-selection--single {
+#selectPersonas + .select2-container .select2-selection--single {
   height: 38px;
   border: 1px solid #ced4da; }
 
-#selectPerson + .select2-container--default .select2-selection--single .select2-selection__arrow {
+#selectPersonas + .select2-container--default .select2-selection--single .select2-selection__arrow {
   height: 36px; }
 
-#selectPerson + .select2-container--default .select2-selection--single .select2-selection__placeholder {
+#selectPersonas + .select2-container--default .select2-selection--single .select2-selection__placeholder {
   color: #6d767e;
   font-weight: 400; }
 
@@ -401,7 +401,7 @@ a:hover {
     font-size: 18px; } }
 
 #side-search .form-control {
-  background-color: transparent; }
+    background-color: transparent; }
 
 #side-search .input-group-text {
   background: transparent;
